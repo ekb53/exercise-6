@@ -10,7 +10,7 @@
     <header>
       <h1>Meet the Cats</h1>
 
-      <nav>
+   <nav>
         <ul>
           <li>Home</li>
           <li><a href="black-n-white/charlie.html">Charlie</a></li>
@@ -20,7 +20,7 @@
           <li><a href="tabby/quora.html">Quorra</a></li>
           <li><a href="tux/zedo.html">Zedo</a></li>
         </ul>
-      </nav>
+   </nav>
     </header>
   </body>
 </html>

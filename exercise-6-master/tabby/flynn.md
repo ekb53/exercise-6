@@ -11,7 +11,7 @@
       <h1>Meet the Cats</h1>
       <h2>Flynn</h2>
 
-      <nav>
+   <nav>
         <ul>
           <li><a herf="index.html">Home</a></li>
           <li><a href="black-n-white/charlie.html">Charlie</a></li>
@@ -24,16 +24,16 @@
       </nav>
     </header>
 
-    <main>
+ <main>
 
-      <img src="flynn.jpg" alt="Flynn" />
+   <img src="flynn.jpg" alt="Flynn" />
 
-      <ul>
+   <ul>
         <li><strong>Owner of:</strong> Erin</li>
         <li><strong>Type:</strong> Tabby</li>
         <li><strong>Favorite food:</strong> Pizza</li>
       </ul>
 
-    </main>
+  </main>
   </body>
 </html>
